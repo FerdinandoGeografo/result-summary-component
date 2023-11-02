@@ -24,7 +24,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 2.4rem;
 }
 
 .main {
@@ -214,15 +213,4 @@ body {
 .btn:focus {
   outline: none;
   box-shadow: 0 0 0 0.6rem hsl(252, 100%, 67%, 0.35);
-}
-
-.footer {
-  width: 100%;
-  font-size: 1.1rem;
-  margin: 2.4rem 0;
-}
-
-.attribution {
-  color: hsl(228, 45%, 44%);
-  text-align: center;
 }
