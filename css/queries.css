@@ -1,11 +1,12 @@
 @media (max-width: 48em) {
   body {
-    align-items: normal;
+    height: fit-content;
   }
 
   .main {
     flex-direction: column;
     height: fit-content;
+    border-radius: 0 0 3.2rem 3.2rem;
   }
 
   .result {
